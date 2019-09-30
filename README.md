@@ -1,1 +1,1 @@
-# ananas-palkina.github.ua
+# ananas-palkina.github.io
