@@ -12,6 +12,7 @@
 		dt{
 			color: blue;
 			font-size: 16pt;
+			font-weight: bold;
 		}
 		dd{ color: darkblue;}
 		table{background: white;}
