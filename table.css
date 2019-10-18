@@ -13,9 +13,7 @@
 			color: darkblue;
 			font-size: 10pt;
 		}
-                body{ 
-			background: linear-gradient(to top, #66ffff, #000000)
-		}	
+                body{ background: linear-gradient(to top, #000000, #66ffff);}	
 	</style>
 </head>
 <body>
