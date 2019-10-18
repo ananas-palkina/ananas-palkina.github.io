@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<title>css</title>
 	<style >
+		html, body{height=100;}
 		p{
 			color: darkblue;
 			font-size: 16pt;
@@ -16,7 +17,7 @@
 		}
 		dd{ color: darkblue;}
 		table{background: white;}
-                body{ background: linear-gradient(#ffffff, #6dd5fa, #2980b9);}	
+                body{ background: linear-gradient(#ffffff, #6dd5fa, #2980b9) no-repeat;}	
 	</style>
 </head>
 <body>
