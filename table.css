@@ -6,14 +6,16 @@
 	<style >
 		p{
 			color: darkblue;
-			font-size: 10pt;
+			font-size: 16pt;
 			font-weight: bold;
 		}
 		dt{
-			color: darkblue;
-			font-size: 10pt;
+			color: blue;
+			font-size: 16pt;
 		}
-                body{ background: linear-gradient(to top, #000000, #66ffff);}	
+		dd{ color: darkblue;}
+		table{background: white;}
+                body{ background: linear-gradient(white, #66ffff);}	
 	</style>
 </head>
 <body>
