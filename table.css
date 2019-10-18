@@ -12,6 +12,9 @@
 		dt{
 			color: darkblue;
 			font-size: 10pt;
+		}
+                body{ 
+			background: linear-gradient(to top, #66ffff, #000000)
 		}	
 	</style>
 </head>
