@@ -9,6 +9,7 @@ dt{
 	font-weight: bold;
 }
 dd{ color: darkblue;}
+dt{font-size: 14pt;}
 table{background: white;}
 th{
 	background:#9d00f2;
@@ -28,7 +29,7 @@ h3{
 	font-weight: bold;
 }
 table{
-	background:#c4a7d1;
+	background:#dbb3ff;
 	border: 1pt;
 	font-size: 16pt;
 }
