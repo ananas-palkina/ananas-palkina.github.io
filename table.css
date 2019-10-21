@@ -1,25 +1,36 @@
-<style >
-	p{
-		color: darkblue;
-		font-size: 16pt;
-		font-weight: bold;
-	}
-	dt{
-		color: blue;
-		font-size: 16pt;
-		font-weight: bold;
-	}
-	dd{ color: darkblue;}
-	table{background: white;}
-	a{
-		color: blue;
-		font-size: 14pt;
-	}
-	a:hover{color:darkblue;}
-	h3{
-		color: darkblue;
-		font-size: 16pt;
-		font-weight: bold;
-	}
-       body{ background: url("https://avatanplus.com/files/resources/original/5a698981709f81612c4121b5.jpg");}	
-</style>
+p{
+	color: darkblue;
+	font-size: 16pt;
+	font-weight: bold;
+}
+dt{
+	color: blue;
+	font-size: 16pt;
+	font-weight: bold;
+}
+dd{ color: darkblue;}
+table{background: white;}
+th{
+	background:#9d00f2;
+	color:white; 
+}
+a{
+	color: blue;
+	font-size: 14pt;
+}
+a:hover{
+	color:darkblue;
+	font-size: 16pt;
+}
+h3{
+	color: darkblue;
+	font-size: 16pt;
+	font-weight: bold;
+}
+table{
+	background:#c4a7d1;
+	border: 1pt;
+	font-size: 16pt;
+}
+body{ background: url("https://avatanplus.com/files/resources/mid/56c97d01c8f9415303104f1f.jpg");}
+h4, h3, h2{ text-align: right; }	
