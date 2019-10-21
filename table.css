@@ -1,26 +1,20 @@
-<!DOCTYPE html>
-<html lang="ukr">
-<head>
-	<meta charset="UTF-8">
-	<title>css</title>
-	<style >
-		html, body{height=100;}
-		p{
-			color: darkblue;
-			font-size: 16pt;
-			font-weight: bold;
-		}
-		dt{
-			color: blue;
-			font-size: 16pt;
-			font-weight: bold;
-		}
-		dd{ color: darkblue;}
-		table{background: white;}
-                body{ background: linear-gradient(#ffffff, #6dd5fa, #2980b9) no-repeat;}	
-	</style>
-</head>
-<body>
-	
-</body>
-</html>
+<style >
+	p{
+		color: darkblue;
+		font-size: 16pt;
+		font-weight: bold;
+	}
+	dt{
+		color: blue;
+		font-size: 16pt;
+		font-weight: bold;
+	}
+	dd{ color: darkblue;}
+	table{background: white;}
+	a{
+		color: blue;
+		font-size: 14pt;
+	}
+	a:hover{color:darkblue;}
+       body{ background: url("https://i.pinimg.com/originals/e2/26/d5/e226d5622dbdbf053e84b36428fee109.jpg");}	
+</style>
