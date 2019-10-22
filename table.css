@@ -34,4 +34,5 @@ table{
 	font-size: 16pt;
 }
 body{ background: url("https://avatanplus.com/files/resources/mid/56c97d01c8f9415303104f1f.jpg");}
-h4, h3, h2{ text-align: right; }	
+h4{ text-align: right; }	
+h3, h2{ text-align: center; }
