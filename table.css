@@ -1,38 +1,47 @@
 p{
-	color: darkblue;
-	font-size: 16pt;
+	color: white;
+	font-size: 26pt;
 	font-weight: bold;
 }
 dt{
-	color: blue;
-	font-size: 16pt;
+	color: white;
+	font-size: 26pt;
 	font-weight: bold;
 }
-dd{ color: darkblue;}
-dt{font-size: 14pt;}
+dd{ 
+	color: white;
+  	font-size: 20pt;
+  }
+dt{font-size: 24pt;}
 table{background: white;}
 th{
 	background:#9d00f2;
 	color:white; 
 }
 a{
-	color: blue;
-	font-size: 14pt;
+	color: lightgray;
+	font-size: 24pt;
 }
 a:hover{
-	color:darkblue;
-	font-size: 16pt;
+	color:white;
+	font-size: 26pt;
 }
 h3{
-	color: darkblue;
-	font-size: 16pt;
+	color: white;
+	font-size: 26pt;
 	font-weight: bold;
 }
 table{
 	background:#dbb3ff;
 	border: 1pt;
-	font-size: 16pt;
+	font-size: 26pt;
 }
-body{ background: url("https://avatanplus.com/files/resources/mid/56c97d01c8f9415303104f1f.jpg");}
-h4{ text-align: right; }	
-h3, h2{ text-align: center; }
+body{ background: url("https://i.pinimg.com/564x/cc/48/d5/cc48d5e56c5b8a6724e7fc414796e093.jpg");}
+h4{ 
+	text-align: right;
+	color: white;
+	}	
+h3, h2{ 
+	text-align: center;
+	color: white;
+	}
