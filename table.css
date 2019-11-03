@@ -1,16 +1,16 @@
 p{
 	color: white;
-	font-size: 26pt;
+	font-size: 20pt;
 	font-weight: bold;
 }
 dt{
 	color: white;
-	font-size: 26pt;
+	font-size: 20pt;
 	font-weight: bold;
 }
 dd{ 
 	color: white;
-  	font-size: 20pt;
+  	font-size: 18pt;
   }
 dt{font-size: 24pt;}
 table{background: white;}
@@ -20,21 +20,21 @@ th{
 }
 a{
 	color: lightgray;
-	font-size: 24pt;
+	font-size: 20pt;
 }
 a:hover{
 	color:white;
-	font-size: 26pt;
+	font-size: 24pt;
 }
 h3{
 	color: white;
-	font-size: 26pt;
+	font-size: 20pt;
 	font-weight: bold;
 }
 table{
 	background:#dbb3ff;
 	border: 1pt;
-	font-size: 26pt;
+	font-size: 20pt;
 }
 body{ background: url("https://i.pinimg.com/564x/cc/48/d5/cc48d5e56c5b8a6724e7fc414796e093.jpg");}
 h4{ 
